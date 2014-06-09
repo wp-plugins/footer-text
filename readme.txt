@@ -3,8 +3,8 @@ Contributors: bungeshea
 Donate link: http://bungeshea.com/donate/
 Tags: front-end, footer, admin, dashboard, visual, theme, footer text, shortcodes, template tags
 Requires at least: 3.3
-Tested up to: 3.8
-Stable tag: 2.0.0
+Tested up to: 3.9.1
+Stable tag: 2.0.1
 License: MIT
 License URI: license.txt
 
@@ -48,9 +48,13 @@ This works the same as calling the `footer_text()` function, and any of the thre
 == Screenshots ==
 
 1. Editing the footer text in the dashboard
-2. Previewing the footer text on the Twenty Eleven theme
+2. Previewing the footer text on the Twenty Thirteen theme
 
 == Changelog ==
+
+= 2.0.1 =
+* Update screenshots for WordPress 3.9
+* Add braces to one-line conditionals
 
 = 2.0.0 =
 * Delete footer text from database on uninstall
